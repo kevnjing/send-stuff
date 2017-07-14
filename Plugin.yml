@@ -1,0 +1,11 @@
+name: send item
+main: kevinjing\ItemSend
+author: KEVIN JIANG
+version: 1.7
+api: [2.0.0, 3.0.0-ALPHA1, 3.0.0-ALPHA2, 3.0.0-ALPHA3, 3.0.0-ALPHA4]
+load: STARTUP
+website: kevinjiang.xyz
+commands:
+    itemsend:
+        description: "send stuff with a breeze"
+        aliases: [ss] 
